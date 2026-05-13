@@ -4,7 +4,7 @@
 
     <groupId>org.mirank.supporttest</groupId>
     <artifactId>mysupporttest</artifactId>
-    <version>1.0.0.4-SNAPSHOT</version>
+    <version>1.0.0.4</version>
 
     <name>WSO2 Support Maven  Test</name>
     <description>WSO2 Support Maven test project</description>
@@ -44,7 +44,7 @@
         <url>https://github.com/Miranlfk/wso2-maven-support-test-repo.git</url>
         <developerConnection>scm:git:https://github.com/Miranlfk/wso2-maven-support-test-repo.git</developerConnection>
         <connection>scm:git:https://github.com/Miranlfk/wso2-maven-support-test-repo.git</connection>
-        <tag>HEAD</tag>
+        <tag>v1.0.0.4</tag>
     </scm>
 
     <build>
