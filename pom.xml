@@ -4,7 +4,7 @@
 
     <groupId>org.mirank.supporttest</groupId>
     <artifactId>mysupporttest</artifactId>
-    <version>1.0.0.5-SNAPSHOT</version>
+    <version>1.0.0.6-SNAPSHOT</version>
 
     <name>WSO2 Support Maven  Test</name>
     <description>WSO2 Support Maven test project</description>
